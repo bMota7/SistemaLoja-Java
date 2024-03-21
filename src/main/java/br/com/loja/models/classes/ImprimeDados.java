@@ -1,2 +1,5 @@
-package br.com.loja.models.classes;public interface ImprimeDados {
+package br.com.loja.models.classes;
+
+public interface ImprimeDados {
+    void imprimeDados();
 }
